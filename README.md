@@ -12,13 +12,13 @@ The workspace contains two folders by default, where:
 ## List of Programs
 
 ### Program 1
-1 a. Design and create a class named Retail Item that holds data about an item in a retail store. The class should have the following fields:
+1a. Design and create a class named Retail Item that holds data about an item in a retail store. The class should have the following fields:
 • Description - The description field references a String object that holds a brief description of the item.
 • Units - The units field is an int variable that holds the number of units currently in inventory.
 • Price - The price field is a double that holds the item’s retail price.
 Write a constructor that accepts arguments for each field, appropriate mutator methods that store values in these fields, and accessor methods that return the values in these fields. Write the main method which creates three Retail Item objects and invokes appropriate methods.
 
-1b.Write a class named Car that has the following data members:
+1b. Write a class named Car that has the following data members:
 • model. The model field is an int that holds the car’s year.
 • make. The make field references a String object that holds the make of the car.
 • speed. The speed field is an int that holds the car’s current speed.
