@@ -13,6 +13,7 @@ Meanwhile, the compiled output files (classes) will be generated in the `bin` fo
 
 ## List of Programs
 
+### Program 1
 1 a. Design and create a class named Retail Item that holds data about an item in a retail store. The class should have the following fields:
 • Description - The description field references a String object that holds a brief description of the item.
 • Units - The units field is an int variable that holds the number of units currently in inventory.
@@ -30,6 +31,8 @@ The class should have the following constructor and other methods.
 • Brake method should subtract 5 from the speed field each time it is called.
 Demonstrate the class in a program that creates a Car object, and then calls the accelerate method five times. After each call to the accelerate method, get the current speed of the car and display it. Call the brake method five times. After each call to the brake method, get the current speed of the car and display it.
 
+
+### Program 2
 2a. Identify the type of inheritance in the given diagram. Create a class A with two integer member
 variables that are private, two float variables that are protected and two integer variables that are public.
 Let class B inherit class A and class C and Class D are inherited from class B. Write appropriate
