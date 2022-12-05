@@ -7,9 +7,7 @@ This repository contains the codes for the Java Lab Cycle Programs.
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources or java programs
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files (classes) will be generated in the `bin` folder by default.
+- `bin`: the folder to maintain the compiled output files (classes)
 
 ## List of Programs
 
