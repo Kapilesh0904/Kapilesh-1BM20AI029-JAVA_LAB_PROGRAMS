@@ -3,10 +3,10 @@ abstract class Marks
     abstract void getPercentage();
 }
 
-class A extends Marks
+class A1 extends Marks
 {
     double m1,m2,m3;
-    A(double mark1,double mark2,double mark3)
+    A1(double mark1,double mark2,double mark3)
     {
         this.m1 = mark1;
         this.m2 = mark2;
@@ -19,10 +19,10 @@ class A extends Marks
     }
 }
 
-class B extends Marks
+class B1 extends Marks
 {
     double m1,m2,m3,m4;
-    B(double mark1,double mark2,double mark3,double mark4)
+    B1(double mark1,double mark2,double mark3,double mark4)
     {
         this.m1 = mark1;
         this.m2 = mark2;
@@ -40,9 +40,9 @@ public class Assignment3
 {
     public static void main(String args[])
     {
-        A obj1 = new A(66.7,89.5,78.3);
+        A1 obj1 = new A1(66.7,89.5,78.3);
         obj1.getPercentage();
-        B obj2 = new B(95.6,78.5,96.3,91.4);
+        B1 obj2 = new B1(95.6,78.5,96.3,91.4);
         obj2.getPercentage();
     }   
 }
