@@ -40,3 +40,5 @@ ii) Function overriding
 iii) Default constructors
 iv) Parameterized constructors
 v) How to we make a method not to be over ridden and a class not be inherited further
+
+2b. <img src = "Images/Problem2">
