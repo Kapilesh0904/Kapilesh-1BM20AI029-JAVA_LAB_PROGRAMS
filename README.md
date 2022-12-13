@@ -45,4 +45,4 @@ v) How to we make a method not to be over ridden and a class not be inherited fu
 
 
 ### Program 3
-3a. <br> <img src = "Images/Problem3a.jpeg" height = "75%" width = "75%">
+3a. <br> <img src = "Images/Problem3a.jpg" height = "75%" width = "75%">
